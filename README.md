@@ -1,2 +1,2 @@
-# framework
-The most Powerful Front-end Framework in the Design World. MAke Beautiful and Full Responsive Websites with ADIS. It better Than Bootstrap!
+# ADIS Front-end  Framework
+ADIS framework is the most powerful in the world and has the power to meet everything that every web architect needs. We call it the best framework made in recent years. ADIS framework was created by Eyruz Badalzada, an Azerbaijani designer and is available to everyone. With an extremely good framework and memorable syntax, ADIS will allow you to enjoy Web design. Compatible with all devices and extremely user-friendly, we highly recommend you to use ADIS. It was created with love. Is there anything more beautiful?))
