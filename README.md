@@ -32,3 +32,5 @@ You can download the Framework to your server or use CDN version. Please follow 
 CSS : https://cdn.jsdelivr.net/gh/getadis/framework@main/css/v1/adis.min.css
 
 JS : https://cdn.jsdelivr.net/gh/getadis/framework@main/js/v1/adis.min.js
+
+Git : git clone https://github.com/getadis/framework.git
