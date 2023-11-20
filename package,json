@@ -1,0 +1,24 @@
+{
+  "name": "Adis Framework",
+  "version": "1.0",
+  "description": "Make ",
+  "main": "index.js", // Entry point for JS
+  "files": [
+    "css/*", // Define all the CSS files to be included
+    "js/*"   // Define all the JS files to be included
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/your-username/your-repository.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "library"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    // Any dependencies your package might have
+  }
+}
