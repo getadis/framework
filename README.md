@@ -26,3 +26,9 @@ Community Support: Join a thriving community of developers contributing to the f
 Constant Innovation: Backed by continuous updates and improvements, Adis ensures that your projects stay ahead in the dynamic landscape of web development.
 
 Experience the power of Adis Framework and expedite your front-end development journey today!
+
+You can download the Framework to your server or use CDN version. Please follow bellow lines to use CDN
+
+CSS : https://cdn.jsdelivr.net/gh/getadis/framework@main/css/v1/adis.min.css
+
+JS : https://cdn.jsdelivr.net/gh/getadis/framework@main/js/v1/adis.min.js
