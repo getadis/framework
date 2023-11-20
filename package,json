@@ -1,24 +1,27 @@
 {
   "name": "Adis Framework",
   "version": "1.0",
-  "description": "Make ",
-  "main": "index.js", // Entry point for JS
+  "description": "The best front-end Framework. Make mobile-first and full responsive Websites with ADIS Framework",
   "files": [
-    "css/*", // Define all the CSS files to be included
-    "js/*"   // Define all the JS files to be included
+    "css/",
+    "js/"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/your-username/your-repository.git"
+    "url": "git://github.com/getadis/framework/"
   },
   "keywords": [
     "css",
     "js",
     "library"
   ],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "Eyruz Badalzada",
+  "license": {
+    "type": "MIT",
+    "customFor": "Azerbaijan"
+  },
   "dependencies": {
-    // Any dependencies your package might have
+    "jquery": "^3.6.2"
   }
 }
+
